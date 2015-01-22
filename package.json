@@ -8,7 +8,7 @@
   ],
   "main": "./index.js",
   "dependencies": {
-    "node-redis-crc16": "~0.0.2",
+    "node-redis-crc16":"git+https://github.com/hashtagify/node-redis-crc16.git",
     "redis": "0.8.x"
   },
   "optionalDependencies": {
